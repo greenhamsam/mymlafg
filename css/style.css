@@ -27,6 +27,16 @@ html, body {
 	margin-top: -30px;
 }
 
+/* Icon Row */
+#iconRow {
+	padding: 60px 0;
+}
+
+/* Pics */
+#pics > #fireworks, #eye {
+	
+}
+
 /* Navigation Menu */
 .custom-navigation {
 	background: transparent;
