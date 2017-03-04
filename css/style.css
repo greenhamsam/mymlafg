@@ -34,7 +34,8 @@ html, body {
 
 /* Pics */
 #pics > #fireworks, #eye {
-	
+	display: inline-block;
+	float: left;
 }
 
 /* Navigation Menu */
